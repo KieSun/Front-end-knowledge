@@ -67,7 +67,7 @@
 
 - [前端面试题集锦](https://fe.padding.me/#/)
 - [前端开发面试题 Star 8000+](https://github.com/markyun/My-blog/tree/master/Front-end-Developer-Questions/Questions-and-Answers)
-- [专科面试阿里分享] (https://juejin.im/post/5a92c23b5188257a6b06110b)
+- [专科面试阿里分享](https://juejin.im/post/5a92c23b5188257a6b06110b)
 - [收集的面试题](https://github.com/calabash519/interview-questions)
 - [前端面试题答案](https://github.com/yangshun/front-end-interview-handbook)
 - [CSS基础面试题](https://funteas.com/topic/5a8f1a74f7f37aa60a177d86)
