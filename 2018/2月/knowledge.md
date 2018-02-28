@@ -90,5 +90,4 @@
 - [标注工具](http://www.biaonimeia.com/)
 - [VSCode 代码截图工具](https://github.com/octref/polacode)
 - [Chrome 插件推荐](https://funteas.com/topic/5a9461649a2833b84c481b3b)
-- [parcel初体验](https://github.com/cheerylong/parcelCase)
 
