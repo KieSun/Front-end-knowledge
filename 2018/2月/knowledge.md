@@ -37,7 +37,7 @@
     
 [Demo 地址](https://codepen.io/wangerxiao/pen/EQgqzr)
 
-以上情况如何是 `child` 元素撑满父级元素：答案是给 `parent `一个具体高度 `height：1px`
+以上情况如何使 `child` 元素撑满父级元素：答案是给 `parent `一个具体高度 `height：1px`
 
 
 ## 性能相关
