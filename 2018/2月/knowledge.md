@@ -12,7 +12,7 @@
 - [Vue.js 源码解析](https://github.com/answershuto/learnVue)
 - [数据动态绑定的简单实现](https://zhuanlan.zhihu.com/p/25003235?refer=e-mill)
 - [解析神奇的 Object.defineProperty](https://segmentfault.com/a/1190000004346467)
-- [【译】关于 Promise 的 9 个提示] (https://juejin.im/post/5a9600526fb9a06333155141)
+- [【译】关于 Promise 的 9 个提示](https://juejin.im/post/5a9600526fb9a06333155141)
 - Event Loop
 	- [这一次，彻底弄懂 JavaScript 执行机制](https://juejin.im/post/59e85eebf265da430d571f89)
 	- [Tasks, microtasks, queues and schedules](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/)
