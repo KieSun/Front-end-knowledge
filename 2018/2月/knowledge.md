@@ -12,10 +12,19 @@
 - [Vue.js 源码解析](https://github.com/answershuto/learnVue)
 - [数据动态绑定的简单实现](https://zhuanlan.zhihu.com/p/25003235?refer=e-mill)
 - [解析神奇的 Object.defineProperty](https://segmentfault.com/a/1190000004346467)
+- [【译】关于 Promise 的 9 个提示] (https://juejin.im/post/5a9600526fb9a06333155141)
+- Event Loop
+	- [这一次，彻底弄懂 JavaScript 执行机制](https://juejin.im/post/59e85eebf265da430d571f89)
+	- [Tasks, microtasks, queues and schedules](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/)
+	- [书籍第三章](https://www.kancloud.cn/thinkphp/nodejs-mini-book)
+	- [【朴灵评注】JavaScript 运行机制详解：再谈Event Loop](http://blog.csdn.net/lin_credible/article/details/40143961)
+
 
 ## CSS 相关
 
 - [z-index深入理解](https://zhuanlan.zhihu.com/p/33984503)
+- [CSS: 潜藏着的BFC](https://mp.weixin.qq.com/s/HlvuVCamWUY_euxCVTsT4Q)
+- [借助HTML5 details,summary无JS实现各种交互效果](http://www.zhangxinxu.com/wordpress/2018/01/html5-details-summary-no-js-ux/)
 - `height`、`min-height` 问题
     
 ```CSS
