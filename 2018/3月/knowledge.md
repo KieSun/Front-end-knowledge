@@ -70,3 +70,4 @@
 - [区块链集合](https://github.com/chaozh/awesome-blockchain-cn)
 - [系统设计](https://github.com/kevingo/system-design-primer-zh-tw)
 - [网络编程懒人入门系列文章](http://www.52im.net/thread-1095-1-1.html)
+- [小程序插件开发](https://mp.weixin.qq.com/s?__biz=MzA3MzkxNDMwMw==&mid=2247483737&idx=1&sn=51340b9afcc355ea1b60c3e8a3028993&chksm=9f068389a8710a9fe450809006a3d3183ac6490aa75d02ba4cc3e87ceeb5c280a3ad8eb9c50e&mpshare=1&scene=23&srcid=0314F6CnvJFR0Pv7ukVVBjIP#rd)
