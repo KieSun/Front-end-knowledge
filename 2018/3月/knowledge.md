@@ -1,6 +1,6 @@
 ## JS 相关
 
-- [[深入理解javascript原型和闭包（完结）](http://www.cnblogs.com/wangfupeng1988/p/3977924.html)](https://www.cnblogs.com/wangfupeng1988/p/3977924.html)
+- [深入理解javascript原型和闭包](https://www.cnblogs.com/wangfupeng1988/p/3977924.html)
 
 - [Event Loop 必知必会（六道题）](https://zhuanlan.zhihu.com/p/34182184)
 
@@ -26,9 +26,6 @@
 
 - [字面量创建对象和 new Object 创建对象性能差别](https://stackoverflow.com/questions/21545687/javascript-vs-new-object-performance)
 
-  ​
-
-  ​
 
 ## CSS
 
