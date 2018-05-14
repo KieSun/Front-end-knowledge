@@ -9,6 +9,7 @@
 ## CSS
 
 - [利用CSS变量实现令人震惊的悬浮效果](https://www.zcfy.cc/article/stunning-hover-effects-with-css-variables?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+- [CSS 单位](https://pineco.de/the-relative-units-of-css/)
 
 ## Webpack
 
@@ -23,6 +24,7 @@
 
 - [Web 安全](https://auth0.com/blog/common-threats-in-web-app-security/)
 - [搞懂 MVC、SPA 與 SSR 技术名词](https://medium.com/@hulitw/introduction-mvc-spa-and-ssr-545c941669e9)
+- [优化静态资源](https://blog.pragmatists.com/how-to-debug-front-end-optimising-network-assets-c0bfcad29b40)
 
 ## Github 仓库推荐
 
