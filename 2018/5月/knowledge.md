@@ -5,6 +5,7 @@
 - [Top 10 JavaScript errors](https://rollbar.com/blog/top-10-javascript-errors/?utm_source=email-nl&utm_medium=email-nl&utm_campaign=email-nl)
 - [现代浏览器支持的不同类型的观察者](https://www.w3cplus.com/javascript/different-types-of-observers-supported-by-modern-browsers.html)
 - [async await 是把双刃剑](https://github.com/dt-fe/weekly/blob/master/55.%E7%B2%BE%E8%AF%BB%E3%80%8Aasync%20await%20%E6%98%AF%E6%8A%8A%E5%8F%8C%E5%88%83%E5%89%91%E3%80%8B.md)
+- [JS 字符串模板](https://codeburst.io/javascript-what-are-template-literals-5d08a50ef2e3)
 
 ## CSS
 
@@ -25,6 +26,7 @@
 - [Web 安全](https://auth0.com/blog/common-threats-in-web-app-security/)
 - [搞懂 MVC、SPA 與 SSR 技术名词](https://medium.com/@hulitw/introduction-mvc-spa-and-ssr-545c941669e9)
 - [优化静态资源](https://blog.pragmatists.com/how-to-debug-front-end-optimising-network-assets-c0bfcad29b40)
+- [Web performance made easy (Google I/O '18)](https://www.youtube.com/watch?v=Mv-l3-tJgGk)
 
 ## Github 仓库推荐
 
