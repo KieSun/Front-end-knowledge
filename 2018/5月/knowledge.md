@@ -34,3 +34,4 @@
 - [CSS Tips](https://github.com/AllThingsSmitty/css-protips)
 - [轻量级日期库](https://github.com/xx45/dayjs)
 - [互联网公司技术架构](https://github.com/davideuler/architecture.of.internet-product)
+- [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)
