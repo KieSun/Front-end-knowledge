@@ -7,6 +7,7 @@
 - [async await 是把双刃剑](https://github.com/dt-fe/weekly/blob/master/55.%E7%B2%BE%E8%AF%BB%E3%80%8Aasync%20await%20%E6%98%AF%E6%8A%8A%E5%8F%8C%E5%88%83%E5%89%91%E3%80%8B.md)
 - [JS 字符串模板](https://codeburst.io/javascript-what-are-template-literals-5d08a50ef2e3)
 - [ES 2018 中正则表达式的更新](http://www.zsoltnagy.eu/es2018-regular-expression-updates-an-opinionated-summary/)
+- [DOM系列：DOM树和遍历DOM](https://www.w3cplus.com/javascript/dom-tree-and-traversals.html)
 
 ## CSS
 
