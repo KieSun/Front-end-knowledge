@@ -8,6 +8,7 @@
 - [JS 字符串模板](https://codeburst.io/javascript-what-are-template-literals-5d08a50ef2e3)
 - [ES 2018 中正则表达式的更新](http://www.zsoltnagy.eu/es2018-regular-expression-updates-an-opinionated-summary/)
 - [DOM系列：DOM树和遍历DOM](https://www.w3cplus.com/javascript/dom-tree-and-traversals.html)
+- [DOM系列：getElement 和 querySelector)](https://www.w3cplus.com/javascript/searching-elements-dom.html)
 
 ## CSS
 
