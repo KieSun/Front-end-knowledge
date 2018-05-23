@@ -40,3 +40,4 @@
 - [互联网公司技术架构](https://github.com/davideuler/architecture.of.internet-product)
 - [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)
 - [前端精读周刊](https://github.com/dt-fe/weekly)
+- [JS 实现数据结构和算法](https://github.com/trekhleb/javascript-algorithms)
