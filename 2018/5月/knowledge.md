@@ -23,6 +23,7 @@
 ## 框架
 
 - [理解 React 的 setState](https://css-tricks.com/understanding-react-setstate/?utm_source=ponyfoo+weekly&utm_medium=email&utm_campaign=113)
+- [为 Luy 实现 React Fiber 架构](https://zhuanlan.zhihu.com/p/37098539)
 
 ## 其他
 
