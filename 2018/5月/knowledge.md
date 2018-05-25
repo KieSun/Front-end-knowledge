@@ -32,6 +32,7 @@
 - [优化静态资源](https://blog.pragmatists.com/how-to-debug-front-end-optimising-network-assets-c0bfcad29b40)
 - [Web performance made easy (Google I/O '18)](https://www.youtube.com/watch?v=Mv-l3-tJgGk)
 - [前端工程师的技术进阶点在哪里?](https://mp.weixin.qq.com/s/-CLEXb_-xkm43dqKSJbFCQ)
+- [高级前端专家是如何进阶的？](https://zhuanlan.zhihu.com/p/23190285)
 
 ## Github 仓库推荐
 
