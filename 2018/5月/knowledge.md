@@ -24,6 +24,8 @@
 
 - [理解 React 的 setState](https://css-tricks.com/understanding-react-setstate/?utm_source=ponyfoo+weekly&utm_medium=email&utm_campaign=113)
 - [为 Luy 实现 React Fiber 架构](https://zhuanlan.zhihu.com/p/37098539)
+- [为何我最终选择放弃升级webpack4？](http://rdc.hundsun.com/portal/article/906.html)
+- [ Vue.js最佳实践（五招让你成为Vue.js大师）](https://segmentfault.com/a/1190000014085613)
 
 ## 其他
 
@@ -43,3 +45,4 @@
 - [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)
 - [前端精读周刊](https://github.com/dt-fe/weekly)
 - [JS 实现数据结构和算法](https://github.com/trekhleb/javascript-algorithms)
+- [使用 Vue 写的原生桌面应用](https://github.com/mimecorg/vuido)
