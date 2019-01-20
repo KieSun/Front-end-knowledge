@@ -20,3 +20,9 @@
 - [4 月知识点整理](https://github.com/KieSun/Front-end-knowledge/blob/master/2018/4%E6%9C%88/knowledge.md)
 - [3 月知识点整理](https://github.com/KieSun/Front-end-knowledge/blob/master/2018/3%E6%9C%88/knowledge.md)
 - [2 月知识点整理](https://github.com/KieSun/Front-end-knowledge/blob/master/2018/2%E6%9C%88/knowledge.md)
+
+### 交流
+
+你可以添加我的微信号，进入我的高级前端交流群，与大家一起交流学习，我也经常会在群内分享与交流。
+
+![](https://user-gold-cdn.xitu.io/2018/12/27/167eeff36b9ea1a8?w=274&h=357&f=png&s=72221)
