@@ -15,7 +15,7 @@
   大厂大佬提供的一些性能优化思路，从基础的内容讲起，逐步到 SSR 同构、PWA 直出、Redis 缓存等等内容。
 
 - [A Netflix Web Performance Case Study](https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9)
-
+  [掘金译文链接](https://juejin.im/post/5bf0c5d56fb9a049ec6aa902)
   网飞的性能优化文章。如果你想学习这一块的内容，网飞的性能优化文章必然是不可错过的，人家在这方面的钻研是相当深入的。
 
 ## React
